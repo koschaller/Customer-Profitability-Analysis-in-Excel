@@ -7,19 +7,7 @@ In this project, the objective is to reduce the attrition of a company by analyz
 Overview:
 ![Screenshot 2023-07-05 153630](https://github.com/koschaller/Employee-Attrition-Analysis-in-Excel/assets/108645447/696193f7-07c1-4e99-b261-55d7f2c93490)
    
-![Screenshot 2023-07-05 155451](https://github.com/koschaller/Employee-Attrition-Analysis-in-Excel/assets/108645447/4a28e625-dc94-4866-a895-97e17ebb5e65)
 
-Masters and Doctors have a higher income and a lower attrition rate. Employees with College degrees or less have a lower income and a higher attrition rate. This is logical because people with a Master's or Doctorate are more specialized and can earn more money than someone with only a College degree or have more access to opportunities for career advancement. This also reflects the limited opportunities for employees that didn't seek advanced degrees. 
-
-![Screenshot 2023-07-05 155507](https://github.com/koschaller/Employee-Attrition-Analysis-in-Excel/assets/108645447/534ac532-7488-47be-8883-143b0ed40148)
-
-Career lengths vary but attrition rates are low among managers, directors, technicians, and scientists. This is due to the level of experience and education required for these positions. Lab technicians and research scientists require additional schooling so they wont have the experience typically seen with managers and directors. Sales representatives have the shortest career length but the highest attrition rate. The requirements for a role have an impact on attrition rate as some roles require many years of experience to obtain or educational investments. 
-
-![Screenshot 2023-07-05 155532](https://github.com/koschaller/Employee-Attrition-Analysis-in-Excel/assets/108645447/4c4fbeb5-0f38-49ff-941b-b63df68c6ae9)
-
-
-
-![Screenshot 2023-07-05 155545](https://github.com/koschaller/Employee-Attrition-Analysis-in-Excel/assets/108645447/96437685-2581-4acb-9580-0e10cdf110fc)
 															
 															
 															
