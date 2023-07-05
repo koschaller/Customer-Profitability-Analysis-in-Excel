@@ -7,15 +7,13 @@ In this project, the objective is to reduce the attrition of a company by analyz
 Overview:
 ![Screenshot 2023-07-05 153630](https://github.com/koschaller/Employee-Attrition-Analysis-in-Excel/assets/108645447/696193f7-07c1-4e99-b261-55d7f2c93490)
 			
-![Screenshot 2023-07-05 153810](https://github.com/koschaller/Employee-Attrition-Analysis-in-Excel/assets/108645447/77cb2680-a78e-498a-b96f-a484b020cfa3)
-															
-![Screenshot 2023-07-05 153828](https://github.com/koschaller/Employee-Attrition-Analysis-in-Excel/assets/108645447/9a56f2ae-00d1-4294-b548-89452513fd3b)
-															
-![Screenshot 2023-07-05 153900](https://github.com/koschaller/Employee-Attrition-Analysis-in-Excel/assets/108645447/60dc5d54-c507-40ec-905a-f1f77db283fa)
-															
-![Screenshot 2023-07-05 153916](https://github.com/koschaller/Employee-Attrition-Analysis-in-Excel/assets/108645447/8ab06e4a-687c-4c18-ba31-5e7ee997da68)
+![Screenshot 2023-07-05 155451](https://github.com/koschaller/Employee-Attrition-Analysis-in-Excel/assets/108645447/4a28e625-dc94-4866-a895-97e17ebb5e65)
 
+![Screenshot 2023-07-05 155507](https://github.com/koschaller/Employee-Attrition-Analysis-in-Excel/assets/108645447/534ac532-7488-47be-8883-143b0ed40148)
+
+![Screenshot 2023-07-05 155532](https://github.com/koschaller/Employee-Attrition-Analysis-in-Excel/assets/108645447/4c4fbeb5-0f38-49ff-941b-b63df68c6ae9)
 		
+![Screenshot 2023-07-05 155545](https://github.com/koschaller/Employee-Attrition-Analysis-in-Excel/assets/108645447/96437685-2581-4acb-9580-0e10cdf110fc)
 															
 															
 															
