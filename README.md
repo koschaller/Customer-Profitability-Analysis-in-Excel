@@ -8,6 +8,7 @@ Overview:
 ![Screenshot 2023-07-05 153630](https://github.com/koschaller/Employee-Attrition-Analysis-in-Excel/assets/108645447/696193f7-07c1-4e99-b261-55d7f2c93490)
    
 ![Screenshot 2023-07-05 155451](https://github.com/koschaller/Employee-Attrition-Analysis-in-Excel/assets/108645447/4a28e625-dc94-4866-a895-97e17ebb5e65)
+
 Masters and Doctors have a higher income and a lower attrition rate. Employees with College degrees or less have a lower income and a higher attrition rate. This is logical because people with a Master's or Doctorate are more specialized and can earn more money than someone with only a College degree or have more access to opportunities for career advancement.
 
 ![Screenshot 2023-07-05 155507](https://github.com/koschaller/Employee-Attrition-Analysis-in-Excel/assets/108645447/534ac532-7488-47be-8883-143b0ed40148)
